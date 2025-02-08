@@ -1,12 +1,12 @@
 {
   "description": "Documentation website for is-a.dev",
-  "repo": "https://github.com/is-a-dev/docs",
+  "repo": "https://github.com/silviosotelo/portfolio",
   "owner": {
     "username": "silviosotelo",
     "email": "silvio.sotelo@hotmail.com"
   },
   "record": {
-    "CNAME": "is-a-dev-docs.pages.dev"
+    "TXT": ["_github-pages-challenge-silviosotelo", "1892252fb650d7f04234579b19fb76"]
   },
   "proxied": true
 }
